@@ -73,3 +73,20 @@ html {
     min-height: 100%;
     _height:100%;
 }
+
+ 
+#mrt_temp{
+    font-size: 25.0pt;
+    display:block;
+    color:#fff; 
+    font-family:monospace;
+    margin-top: -35px;  
+}
+#mrt_name{
+    font-size: 45.0pt;
+    display:block;
+    color:#fff; 
+    font-family:monospace;
+    padding-left:35px;
+
+} 
